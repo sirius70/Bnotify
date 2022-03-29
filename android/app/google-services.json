@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200174805031",
+    "project_id": "bmessages-81dd9",
+    "storage_bucket": "bmessages-81dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200174805031:android:68271148ed1be10c072e02",
+        "android_client_info": {
+          "package_name": "com.dts.flutterfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200174805031-1fn6q77ng7jooiilnattemprj4rgkqkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpLGFmBKlj5xkOT-db8PR6iHlZB6g4TP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200174805031-1fn6q77ng7jooiilnattemprj4rgkqkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
